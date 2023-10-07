@@ -54,5 +54,4 @@ The `Clock` class is the core of the program, responsible for managing time, add
 1. Clone this repository to your local machine.
 2. Compile the `main.cpp` file using a C++ compiler.
 
-```bash
-g++ main.cpp -o clock
+
